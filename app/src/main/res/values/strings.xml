@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Student Scheduler</string>
     <string name="hi_1">HI 1</string>
+    <string name="hi_2">HI 2</string>
+    <string name="hi_3">HI 3</string>
+    <string name="hi_4">HI 4</string>
+    <string name="hi_5">HI 5</string>
+    <string name="hi_6">HI 6</string>
+    <string name="hi_7">HI 7</string>
+    <string name="hi_8">HI 8</string>
+    <string name="hi_9">HI 9</string>
 </resources>
